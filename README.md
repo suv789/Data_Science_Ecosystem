@@ -1,2 +1,2 @@
 # Data_Science_Ecosystem
-IMB DATA Science peer graded assesment.
+IBM DATA Science peer graded assesment(Week 6).
